@@ -5,12 +5,12 @@
       <![CDATA[this is maven project]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="44" started-at="2018-03-28T13:35:25Z" finished-at="2018-03-28T13:35:25Z">
+  <suite name="Suite" duration-ms="31" started-at="2018-03-28T13:51:01Z" finished-at="2018-03-28T13:51:01Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="44" started-at="2018-03-28T13:35:25Z" finished-at="2018-03-28T13:35:25Z">
+    <test name="Test" duration-ms="31" started-at="2018-03-28T13:51:01Z" finished-at="2018-03-28T13:51:01Z">
       <class name="com.qa.maven.maven">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.maven.maven@77caeb3e]" name="test" duration-ms="10" started-at="2018-03-28T13:35:25Z" finished-at="2018-03-28T13:35:25Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.maven.maven@77caeb3e]" name="test" duration-ms="9" started-at="2018-03-28T13:51:01Z" finished-at="2018-03-28T13:51:01Z">
           <reporter-output>
             <line>
               <![CDATA[this is maven project]]>
